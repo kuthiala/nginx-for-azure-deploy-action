@@ -1,4 +1,4 @@
-name: "NGINXaaS Configuration Sync"
+name: "NGINX Configuration Sync"
 description: "Sync NGINX configuration from a git repo and/or certificates from an Azure Key Vault to an NGINXaaS for Azure deployment"
 inputs:
   subscription-id:
